@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlotMachineAnimated</string>
+
+    <string name="spin">SPIN</string>
+    <string name="spinning">SPINNING</string>
+    <string name="startCoin">1000</string>
+</resources>
